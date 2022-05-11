@@ -52,6 +52,7 @@
 .btn-delete {
   margin-left: 25px;
   vertical-align: middle;
+  cursor: pointer;
  }
 
 .clock-wrapper {
